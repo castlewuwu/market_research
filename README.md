@@ -10,6 +10,7 @@
 - [中国大陆牙刷市场调研报告](./china-toothbrush-market-research-2025.md) - 2026年3月19日
 - [中国大陆智能手机市场调研报告](./china-smartphone-market-research-2025.md) - 2026年3月20日
 - [中国大陆新能源汽车市场调研报告](./china-nev-market-research-2025.md) - 2026年3月21日
+- [金价下跌分析报告](./gold-price-analysis-2026-03-22.md) - 2026年3月22日
 
 ---
 
