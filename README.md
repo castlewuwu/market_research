@@ -11,6 +11,7 @@
 - [中国大陆智能手机市场调研报告](./china-smartphone-market-research-2025.md) - 2026年3月20日
 - [中国大陆新能源汽车市场调研报告](./china-nev-market-research-2025.md) - 2026年3月21日
 - [金价下跌分析报告](./gold-price-analysis-2026-03-22.md) - 2026年3月22日
+- [AI应用场景与实现方式调研报告](./ai-application-scenarios-2026.md) - 2026年3月23日
 
 ---
 
