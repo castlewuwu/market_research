@@ -13,6 +13,7 @@
 - [金价下跌分析报告](./gold-price-analysis-2026-03-22.md) - 2026年3月22日
 - [AI应用场景与实现方式调研报告](./ai-application-scenarios-2026.md) - 2026年3月23日
 - [AI工作流应用调研报告](./ai-workflow-application-2026.md) - 2026年3月24日
+- [开源量化交易框架调研报告](./quant_framework_research/README.md) - 2026年8月18日
 
 ---
 
